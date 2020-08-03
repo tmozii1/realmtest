@@ -1,0 +1,17 @@
+{
+  "name": "realmtest",
+  "version": "1.0.0",
+  "description": "realm test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "realm"
+  ],
+  "author": "tim",
+  "license": "ISC",
+  "dependencies": {
+    "realm": "^6.0.3"
+  }
+}
